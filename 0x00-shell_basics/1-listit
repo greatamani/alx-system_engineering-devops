@@ -1,2 +1,2 @@
 #!/bin/bash
-DIR_PATH='dirname readlink -f "${BASH_SOURCE:-$0}"'
+ls
